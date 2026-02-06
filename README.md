@@ -5,6 +5,15 @@
 Construyo producto end-to-end: **Next.js/React** en frontend y **Node/Express + Prisma/MariaDB** en backend.  
 Me gusta trabajar con **producto real**, **performance**, **testing** y **observabilidad**.
 
+<br/>
+
+<a href="https://github.com/RobertoGuzman64">
+  <img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RobertoGuzman64&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=GitHub%20Stats" />
+</a>
+<a href="https://github.com/RobertoGuzman64">
+  <img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoGuzman64&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+</a>
+
 </div>
 
 ---
@@ -35,4 +44,3 @@ Me gusta trabajar con **producto real**, **performance**, **testing** y **observ
 - ✉️ robertoguzman64@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/roberto-guzm%C3%A1n-dur%C3%A1-64623b200/  
 - 🧑‍💻 GitHub: https://github.com/RobertoGuzman64
-
