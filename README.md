@@ -46,5 +46,5 @@ Me gusta trabajar con **producto real**, **performance**, **testing** y **observ
 
 - 📍 Valencia / Remote  
 - ✉️ robertoguzman64@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/roberto-guzm%C3%A1n-dur%C3%A1-64623b200/  
+- 💼 LinkedIn: https://www.linkedin.com/in/roberto-guzm%C3%A1n-64623b200/
 - 🧑‍💻 GitHub: https://github.com/RobertoGuzman64
