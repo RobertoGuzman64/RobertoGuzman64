@@ -7,12 +7,16 @@ Me gusta trabajar con **producto real**, **performance**, **testing** y **observ
 
 <br/>
 
-<a href="https://github.com/RobertoGuzman64">
-  <img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RobertoGuzman64&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=GitHub%20Stats" />
-</a>
-<a href="https://github.com/RobertoGuzman64">
-  <img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoGuzman64&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-</a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-1F7A1F?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 
 </div>
 
